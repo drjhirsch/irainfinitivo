@@ -10,7 +10,7 @@
 <br /><b>Vas a ir</b> al cine en la tarde?
 <br /><b>Vaís a estudiar</b> para el examen en la noche?
 <br />
-<br />Wie du sehen kennst, funktioniert die Struktur immer gleich: konjugierte Form von <a href="https://h5p.org/node/475638"><b>ir</b</a>> dann die Präposition <b>a</b> und dann der <b>Infiniv</b> des jeweiligen Verbs.
+<br />Wie du sehen kennst, funktioniert die Struktur immer gleich: konjugierte Form von <a href="https://h5p.org/node/475638"><b>ir</b></a> dann die Präposition <b>a</b> und dann der <b>Infiniv</b> des jeweiligen Verbs.
 <br />
 <br />Hier kannst Du diese Form nochmals im Kontext in dem <a href="http://quietube7.com/v.php/http://www.youtube.com/watch?v=G8G3aAx0lLk">Lied</a> aus dem Unterricht hören - vielleicht kannst du dir die Struktur so auch besser merken.
 <br />
